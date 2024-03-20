@@ -25,6 +25,7 @@ Pane {
     palette.text: config.MainColor
     palette.buttonText: config.MainColor
     palette.window: config.BackgroundColor
+    palette.clock: config.ClockColor
 
     font.family: config.Font
     font.pointSize: config.FontSize !== "" ? config.FontSize : parseInt(height / 80)
