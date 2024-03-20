@@ -4,7 +4,7 @@ A theme for the [SDDM login manager](https://github.com/sddm/sddm) based on [`Su
 Screen resolution: 1080p.
 
 ### Preview
-![Preview](./Previews/preview.png)
+![Preview](./Previews/preview1.png)
 
 ### Dependencies
 
